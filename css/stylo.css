@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+body{
+    background: violet;
+}
+.menu{
+    text-decoration: none;
+    list-style: none;
+    color: blueviolet;
+    text-align: right;
+    background: rgb(122, 4, 231);
+    padding: 20px;
+    margin: 0%;
+}
